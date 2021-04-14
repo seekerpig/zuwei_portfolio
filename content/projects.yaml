@@ -1,0 +1,71 @@
+- name: TutorsDojo (2021 - Present)
+  url: www.tutorsdojo.com
+  description: I'm currently developing a software as a service start-up named TutorsDojo. It is a responsive web app tutor management software designed for private tutors, tutoring centers and test prep centers. It serves to automate manual tutor management services.
+  status: in progress
+  tags:
+    - JavaScript
+    - React
+    - Node.JS
+    - Firebase
+  icon: github
+  image: images/tutorsdojo.jpg
+
+
+- name: Singapore Poly's CET Analytics Dashboard
+  url: 
+  description: Collaborated with Singapore Polytechnic's Data Science & Analytics Centre to develop interactive web dashboards using CET data to obtain insights and make recommendations.
+  status: completed
+  tags:
+    - Python
+    - Flask
+    - Dash by Plotly
+    - SQL Azure
+  icon: website
+  image: images/fyp.jpg
+
+- name: AI Travel ChatBot (Versa)
+  url: 
+  description: Mobile application built with artificial intelligence named Versa. Versa is designed for language learners in mind, learning language via chatting with a chatbot. It detects speech intents and imitate real conversations with text-to-speech.
+  status: completed
+  tags:
+    - Machine Learning / AI
+    - Text-To-Speech
+    - Google API.AI
+    - Mobile App
+    - Gamification
+  icon: website
+  image: images/versa.jpg
+
+
+- name: HealthPlus
+  url: 
+  description: Achieved 2nd-Runner Up in DBIT's Mobile App Challenge 2018. The mobile application challenge involved coming up with the most creative and feasible mobile application that help solve a real-life problem with a mandatory requirement of incorporating specific APIs provided by the organizer. Some of the APIs to be used are LOCO API, Firebase API and Cognitive API.
+  status: completed
+  tags:
+    - Javascript
+    - HTML/CSS
+    - Cordova PhoneGap
+  icon: website
+  image: images/healthplus.jpg
+
+
+- name: Lasers Computer
+  url: 
+  description: First year web development project. Responsive website built from base using HTML, CSS, Javascript, PHP and AJAX.
+  status: completed
+  tags:
+    - Javascript
+    - HTML/CSS
+    - PHP, AJAX
+  icon: website
+  image: images/laserscomputer.jpg
+
+- name: Mobile Phone Infographics 
+  url: 
+  description: Research and design a long-page infographic for easy info consumption on mobile phone usage statistics. PM to see more of my design work.
+  status: completed
+  tags:
+    - Adobe Illustrator
+    - Adobe Photoshop
+  icon: website
+  image: images/infographic.jpg

@@ -1,0 +1,33 @@
+- profile:
+  initials: ZW
+  name: Soh Zu Wei
+  profession: Tech Enthusiast
+  image: images/profile.jpg
+  location: Singapore, SG
+  relocation: false
+  company: N/A
+  for_hire: true
+  focus: Software as a Service (SAAS)
+  focus_url: https://tutorsdojo.com
+  about: |
+    Graduated from Dip. in Business IT (Singapore Polytechnic) as the top of the cohort, SP Scholar and awarded institutional silver medal from Singapore Computer's Society.
+
+    Currently working on my own start-up. I'm experienced in web/mobile development, UI/UX Design, Data Analytics, Database Management Systems and Business End-to-End. 
+    
+    My other experiences includes: Starting my own e-commerce business and generated over 50k in revenue, 2nd Runner Up in DBIT's Mobile App Challenge and an active participant of community service in SG.
+  skills:
+    - Web Development (HTML, CSS, PHP, Javascript, SQL, NoSQL, React)
+    - UI/UX Design (Illustrator, Sketch, Adobe XD, Photoshop)
+    - Mobile Dev & Backend (Firebase, C#, Obj. C, Node.js)
+    - Business Planning, Marketing and Branding.
+    - Data Analytics/Intelligence and E-Commerce (R, Python, SPSS Modeler, Shopify)
+  tools:
+    - VSCode
+    - Firebase
+    - Adobe
+    - React.JS
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
