@@ -48,6 +48,16 @@
   icon: website
   image: images/healthplus.jpg
 
+- name: Twitch Clone
+  url: 
+  description: Fun side project to try to replicate and create twitch.tv interface
+  status: completed
+  tags:
+    - Javascript
+    - React
+    - HTML/CSS
+  icon: website
+  image: images/twitchclone.jpg
 
 - name: Lasers Computer
   url: 
