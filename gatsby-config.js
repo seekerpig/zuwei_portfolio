@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     description: "Portfolio of Soh Zu Wei",
     locale: "en",
-    title: "Soh Zu Wei",
+    title: "Soh Zu Wei | Portfolio",
     formspreeEndpoint: "https://formspree.io/f/mnqlqklk",
   },
   plugins: [
