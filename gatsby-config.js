@@ -1,7 +1,3 @@
-require("dotenv").config({
-    path: `.env.${process.env.NODE_ENV}`,
-});
-
 module.exports = {
     siteMetadata: {
         description: "Portfolio of Soh Zu Wei",
