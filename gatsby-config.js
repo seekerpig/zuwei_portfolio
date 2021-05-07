@@ -1,6 +1,6 @@
 require("dotenv").config({
-  path: `.env.${process.env.NODE_ENV}`
-})
+    path: `.env.${process.env.NODE_ENV}`,
+});
 
 module.exports = {
     siteMetadata: {
@@ -13,10 +13,12 @@ module.exports = {
         {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
-                // The property ID; the tracking code won't be generated without it
                 trackingId: "G-6KHSKG1D6F",
+                head: true,
+                anonymize: true,
             },
         },
+
         {
             resolve: "@wkocjan/gatsby-theme-intro",
             options: {
@@ -38,6 +40,5 @@ module.exports = {
                 icon: `src/images/favicon.png`, // This path is relative to the root of the site.
             },
         },
-
     ],
 };
