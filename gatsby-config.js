@@ -11,6 +11,13 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                // The property ID; the tracking code won't be generated without it
+                trackingId: "G-6KHSKG1D6F",
+            },
+        },
+        {
             resolve: "@wkocjan/gatsby-theme-intro",
             options: {
                 basePath: "/",
@@ -31,12 +38,6 @@ module.exports = {
                 icon: `src/images/favicon.png`, // This path is relative to the root of the site.
             },
         },
-        {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-                // The property ID; the tracking code won't be generated without it
-                trackingId: "G-6KHSKG1D6F",
-            },
-        },
+
     ],
 };
