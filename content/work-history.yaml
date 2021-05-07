@@ -1,12 +1,12 @@
-- company: Champ Code Academy
-  position: Coding Tutor
-  period: May 2021 - Present
-  url: https://www.champcodeacademy.com/
-
 - company: TutorsDojo
   position: Founder & Lead Developer
-  period: Mar 2021 - Present
+  period: 2021 - Present
   url: https://www.tutorsdojo.com/
+
+- company: Champ Code Academy
+  position: Coding Tutor
+  period: 2021 - Present
+  url: https://www.champcodeacademy.com/
 
 - company: Singapore Armed Forces
   position: National Service Full-Time
