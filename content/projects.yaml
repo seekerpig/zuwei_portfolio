@@ -13,7 +13,7 @@
 
 - name: Singapore Poly's CET Analytics Dashboard
   url: 
-  description: Collaborated with Singapore Polytechnic's Data Science & Analytics Centre to develop interactive web dashboards using CET data to obtain insights and make recommendations.
+  description: Collaborated with Singapore Polytechnic's Data Science & Analytics Centre to develop interactive web dashboards using CET data to obtain insights and make recommendations. The goals is to help the centre make analyzed and informed decisions, such as how to market their service to the right target audience (e.g. adult learners).
   status: completed
   tags:
     - Python
@@ -25,7 +25,7 @@
 
 - name: AI Travel ChatBot (Versa)
   url: 
-  description: Mobile application built with artificial intelligence named Versa. Versa is designed for language learners in mind, learning language via chatting with a chatbot. It detects speech intents and imitate real conversations with text-to-speech.
+  description: Mobile application built with artificial intelligence named Versa. Versa is designed for language learners in mind, learning language via chatting with a chatbot. It detects speech intents and imitate real conversations with text-to-speech. The product also received significant positive intent from investors during an elevator pitch.
   status: completed
   tags:
     - Machine Learning / AI
@@ -39,7 +39,7 @@
 
 - name: HealthPlus
   url: 
-  description: Achieved 2nd-Runner Up in DBIT's Mobile App Challenge 2018. The mobile application challenge involved coming up with the most creative and feasible mobile application that help solve a real-life problem with a mandatory requirement of incorporating specific APIs provided by the organizer. Some of the APIs to be used are LOCO API, Firebase API and Cognitive API.
+  description: Achieved 2nd-Runner Up in DBIT's Mobile App Challenge 2018. The mobile application challenge involved coming up with the most creative and feasible mobile application that help solve a real-life problem with a mandatory requirement of incorporating specific APIs provided by the organizer. The app uses artificial intelligence to help make health recommendations based on the dietary food intakes of the user. Some of the APIs to be used are LOCO API, Firebase API and Cognitive API. It also made use of advanced visual recognition APIs.
   status: completed
   tags:
     - Javascript
@@ -50,7 +50,7 @@
 
 - name: Twitch Clone
   url: 
-  description: Fun side project to try to replicate and create twitch.tv interface
+  description: Developed using purely Javascript and ReactJS. It was a fun side project to try to replicate and create Twitch.TV interface and polish my web development skills.
   status: completed
   tags:
     - Javascript
@@ -61,7 +61,7 @@
 
 - name: Lasers Computer
   url: 
-  description: First year web development project. Responsive website built from base using HTML, CSS, Javascript, PHP and AJAX.
+  description: Web development project. Responsive website built from base using HTML, CSS, Javascript, PHP and AJAX.
   status: completed
   tags:
     - Javascript
@@ -70,9 +70,9 @@
   icon: website
   image: images/laserscomputer.jpg
 
-- name: Mobile Phone Infographics 
+- name: Mobile Phone Infographics (Design Work)
   url: 
-  description: Research and design a long-page infographic for easy info consumption on mobile phone usage statistics. PM to see more of my design work.
+  description: Designed a long-page infographic for easy information consumption on the statistics of mobile phone usage using Adobe Illustrator. Design is too huge to be fully uploaded here, do PM to see more of my design work in UI/UX and others.
   status: completed
   tags:
     - Adobe Illustrator
