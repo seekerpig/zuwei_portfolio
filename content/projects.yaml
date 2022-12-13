@@ -1,7 +1,44 @@
+- name: Sports Booking Website for Singaporeans
+  url: https://sc2006app.web.app/
+  description: Developed a fully fledged responsive web application for finding players to play sports with in Singapore. Created with React framework and Firebase for backend database and authentication. 
+  status: completed
+  tags:
+    - React
+    - Javascript & Typescript
+    - Firebase
+    - Material UI
+    - Typedoc
+    - Software Engineering Principles
+  icon: github
+  image: images/moblima.png
+
+- name: Movie Ticket Booking (Console based)
+  url: https://github.com/MingEn82/MOBLIMA
+  description: This is a console based movie ticket booking application that aims to replicate the experience of booking a movie ticket. It contains functionalities such as booking and viewing movies available depending on cinema and locations. Staff can also change settings such as a variety of prices (e.g. weekend, public holiday etc)
+  status: completed
+  tags:
+    - UML & MVC
+    - Java
+    - Javadoc
+    - Console/text-based
+  icon: github
+  image: images/moblima.png
+
+- name: Telco Data Analysis
+  url: 
+  description: This is a python data analysis project that focuses on telco churn prediction and customer clustering. Some techniques used in the project includes support vector classification, logistic regression, k-cross validation.
+  status: completed
+  tags:
+    - Python
+    - Numpy
+    - Seaborn
+  icon: github
+  image: images/telcodatanalysis.png
+
 - name: TutorsDojo (2021 - Present)
   url: https://www.tutorsdojo.com
-  description: I'm currently developing a software as a service start-up named TutorsDojo. It is a responsive web app tutor management software designed for private tutors, tutoring centers and test prep centers. It serves to automate manual tutor management services.
-  status: in progress
+  description: Developed a responsive web app tutor management software designed for private tutors, tutoring centers and test prep centers. It serves to automate manual tutor management services.
+  status: completed
   tags:
     - JavaScript
     - React

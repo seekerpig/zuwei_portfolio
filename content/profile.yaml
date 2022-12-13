@@ -5,31 +5,30 @@
   image: images/profile.jpg
   location: Singapore, SG
   relocation: false
-  company: Champ Code Academy (Tutor) & TutorsDojo (Founder)
-  for_hire: false
-  focus: Entrepreneurship
+  company: N/A
+  for_hire: true
+  focus: Software Development
   focus_url: https://www.tutorsdojo.com
   about: |
-    Graduated from Dip. in Business IT (Singapore Polytechnic) as the top of the cohort, SP Scholar and awarded institutional silver medal from Singapore Computer's Society.
+    I am currently a penultimate computer science student studying in Nanyang Technological University with NTU Scholarship.
+
+    Previously from Dip. in Business IT (Singapore Polytechnic) and was an SP Scholar and graduated with as course's Silver Medalist.
     
     I'm experienced in full stack development, UI/UX Design, Data Analytics, Database Management Systems and Business End-to-End Processes. 
 
-    Currently working on my own start-up and as a coding tutor. 
-
-    Feel free to contact me for any interests in my projects! I am also looking for a co-founder for a community-service related start-up non-profit project.
+    Do contact me if there are any tech related internships.
     
     
   skills:
-    - Web Development (HTML, CSS, PHP, Javascript, SQL, NoSQL, React)
+    - Web Dev (HTML, CSS, PHP, Javascript, React, Firebase, NoSQL)
     - UI/UX Design (Illustrator, Sketch, Adobe XD, Photoshop)
-    - Mobile Dev & Backend (Firebase, C#, Obj. C, Node.js)
+    - Others (Solidity, Python, C, C++, Java)
     - Business Planning, Marketing, Branding and SEO.
     - Data Analytics/Intelligence and E-Commerce (R, Python, SPSS Modeler, Shopify)
   tools:
     - VSCode
     - Firebase
     - Adobe
-    - React.JS
   budget:
     currency: $
     min: 5
