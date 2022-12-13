@@ -8,7 +8,7 @@
   company: N/A
   for_hire: true
   focus: Software Development
-  focus_url: https://www.tutorsdojo.com
+  focus_url: https://www.linkedin.com/in/sohzuwei/
   about: |
     I am currently a penultimate computer science student studying in Nanyang Technological University with NTU Scholarship.
 
@@ -20,11 +20,11 @@
     
     
   skills:
-    - Web Dev (HTML, CSS, PHP, Javascript, React, Firebase, NoSQL)
-    - UI/UX Design (Illustrator, Sketch, Adobe XD, Photoshop)
-    - Others (Solidity, Python, C, C++, Java)
-    - Business Planning, Marketing, Branding and SEO.
-    - Data Analytics/Intelligence and E-Commerce (R, Python, SPSS Modeler, Shopify)
+    - Web Dev (Javascript, React, Firebase)
+    - UI/UX Design
+    - Solidity, Python, C, Java
+    - Business End-To-End Processes
+    - Data Analytics/Intelligence and E-Commerce
   tools:
     - VSCode
     - Firebase
