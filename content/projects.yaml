@@ -13,7 +13,7 @@
   image: images/sc2006.png
 
 - name: Movie Ticket Booking (Console based)
-  url: https://github.com/MingEn82/MOBLIMA
+  url: https://github.com/seekerpig/MOBLIMA
   description: This is a console based movie ticket booking application that aims to replicate the experience of booking a movie ticket. It contains functionalities such as booking and viewing movies available depending on cinema and locations. Staff can also change settings such as a variety of prices (e.g. weekend, public holiday etc)
   status: completed
   tags:
