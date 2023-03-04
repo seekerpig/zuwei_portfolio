@@ -1,6 +1,7 @@
 - name: Sports Booking Website for Singaporeans
-  url: https://sc2006app.web.app/
-  description: Developed a fully fledged responsive web application for finding players to play sports with in Singapore. Created with React framework and Firebase for backend database and authentication. 
+  url: https://sc2006app.web.app/ 
+  
+  description: Developed a fully fledged responsive web application for finding players to play sports with in Singapore. Created with React framework and Firebase for backend database and authentication. Github repo- https://github.com/seekerpig/sc2006app_auth
   status: completed
   tags:
     - React
@@ -25,7 +26,7 @@
   image: images/moblima.png
 
 - name: Telco Data Analysis
-  url: 
+  url: https://github.com/seekerpig/SC1015_DataScienceAI_MiniProject
   description: This is a python data analysis project that focuses on telco churn prediction and customer clustering. Some techniques used in the project includes support vector classification, logistic regression, k-cross validation.
   status: completed
   tags:
@@ -47,7 +48,7 @@
   icon: website
   image: images/EthereumNFTContract.png
 
-- name: TutorsDojo (2021 - Present)
+- name: TutorsDojo (2021)
   url: https://www.tutorsdojo.com
   description: Developed a responsive web app tutor management software designed for private tutors, tutoring centers and test prep centers. It serves to automate manual tutor management services.
   status: completed
