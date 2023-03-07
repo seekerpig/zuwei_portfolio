@@ -37,7 +37,7 @@
   image: images/telcodatanalysis.png
 
 - name: NFT Smart Contract
-  url: https://rinkeby.etherscan.io/address/0x7a64ef97301b92c5b0474f5c8a59002a3a589085#code
+  url: https://github.com/seekerpig/nftSmartContract
   description: Developed a NFT Smart Contract on Ethereum based on the ERC1155 Standards on Ethereum (Built with Solidity). The smart contract is currently live on ethereum testnet rinkeby.
   status: completed
   tags:
