@@ -12,7 +12,7 @@
     - Multiprocessing
     - Real-time Communications
   icon: website
-  image: images/stm32robot.png
+  image: images/stm32robot.jpg
 
 - name: Sports Booking Website for Singaporeans
   url: https://sc2006app.web.app/ 
