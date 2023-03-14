@@ -11,7 +11,7 @@
     - Bluetooth
     - Multiprocessing
     - Real-time Communications
-  icon: website
+  icon: github
   image: images/stm32robot.jpg
 
 - name: Sports Booking Website for Singaporeans
@@ -27,6 +27,21 @@
     - Software Engineering Principles
   icon: website
   image: images/sc2006.png
+
+
+- name: Restful API Server with AWS RDS (MySQL)
+  url:  https://github.com/seekerpig/backendserver_1
+  description: Built with Express.JS. Created a restful API server for refreshing my knowledge on RESTful APIs using different types of HTTP requests such as GET, POST, PUT. These requests are then processed into SQL queries which is then executed on the AWS RDS (MySQL) server to perform CRUD functions.
+  status: completed
+  tags:
+    - Node.JS
+    - Express.JS
+    - AWS Relational Database
+    - MySQL
+    - HTTP
+    - RESTful API
+  icon: github
+  image: images/expressJS.png
 
 - name: Movie Ticket Booking (Console based)
   url: https://github.com/seekerpig/MOBLIMA
