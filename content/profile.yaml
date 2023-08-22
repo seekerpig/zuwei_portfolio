@@ -19,17 +19,17 @@
     
     
   skills:
-    - Full Stack (Typescript, React, DBMS)
+    - Full Stack (Typescript, React, DBMS, .NET, Express.JS)
     - UI/UX Design
-    - Solidity, Python, C++, C#, Java
-    - Software Engineering Practices
+    - Solidity, Python, C++, C#, Java, Javascript
+    - Software Engineering Practices, Patterns, OOP
     - Data Analytics
     - CI/CD, Kubernetes, Docker, Cloud
   tools:
     - Visual Studio
-    - SQL/NoSQL
-    - Microservices
-    - Scrum/AGILE
+    - SQL / NoSQL
+    - Agile / Scrums
+    - Passion!
   budget:
     currency: $
     min: 5
