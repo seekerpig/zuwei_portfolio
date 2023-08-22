@@ -1,7 +1,12 @@
-- company: TutorsDojo
-  position: Developer
-  period: 2021 - 2022
-  url: https://www.tutorsdojo.com/
+- company: Autodesk
+  position: Software Engineer Intern
+  period: Aug 2023 - Dec 2023
+  url: 
+
+- company: Ernst & Young (EY)
+  position: Software Engineer Intern
+  period: May 2023 - Aug 2023
+  url: 
 
 - company: Champ Code Academy
   position: Coding Tutor
@@ -21,9 +26,4 @@
 - company: Visa Inc.
   position: FinTech Internship
   period: Oct 2018 - Feb 2019
-  url: https://visa.com.sg
-
-- company: QCD Technology
-  position: Customer Service Officer
-  period: Oct 2016 - Dec 2016
-  url: https://www.qcd-tech.com/
+  url: 
