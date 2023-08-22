@@ -1,7 +1,6 @@
 - name: RaspberryPI Communication Server
   url: https://github.com/seekerpig/sc2079_rpi_imagerec
-  description: Developed raspberryPI as a communication server that helps to process and facilitate real-time communications between multiple devices such as Android Tablet (via Bluetooth), Algorithm Server (via IP Sockets), Image Recognition Server (via HTTP Requests and Flask) and STM32 Robo (via UART/Serial). 
-  Coded with Python, uses multiple processes to allow for parallel computation across processes and each process dedicated to sending/receiving message from devices such as algorithm server.
+  description: Developed raspberryPI as a communication server that helps to process and facilitate real-time communications between multiple devices such as Android Tablet (via Bluetooth), Algorithm Server (via IP Sockets), Image Recognition Server (via HTTP Requests and Flask) and STM32 Robo (via UART/Serial). Coded with Python, uses multiple processes to allow for parallel computation across processes and each process dedicated to sending/receiving message from devices such as algorithm server.
   status: completed
   tags:
     - Python
@@ -24,7 +23,7 @@
     - Javascript & Typescript
     - Firebase
     - NoSQL Database
-    - Github Action (CI/CD)
+    - Github Action (auto deploy new changes)
     - Material UI
     - Typedoc
     - Software Engineering Principles
