@@ -11,7 +11,7 @@
   focus_url: https://www.linkedin.com/in/sohzuwei/
   about: |
     I am currently a penultimate Computer Science student studying in Nanyang Technological University with NTU Scholarship (No Bond, Graduate DEC 2024)
-    (Current Cumulative GPA is 4.83/5.0)
+    (Current Cumulative GPA is 4.84/5.0)
 
     Previously from Dip. in Business IT (Singapore Polytechnic) and was an SP Scholar and graduated with as course's Silver Medalist.
     
@@ -19,16 +19,18 @@
     
     
   skills:
-    - Web Dev (Javascript, React, DBMS)
+    - Full Stack (Typescript, React, DBMS)
     - UI/UX Design
-    - Solidity, Python, C, Java
+    - Solidity, Python, C++, C#, Java
     - Software Engineering Practices
     - Data Analytics
+    - CI/CD, Kubernetes, Docker, Cloud
   tools:
-    - React.JS
+    - Visual Studio
     - SQL/NoSQL
-    - Python
-    - Passion!
+    - Microservices
+    - Scrum/AGILE
+    
   budget:
     currency: $
     min: 5
