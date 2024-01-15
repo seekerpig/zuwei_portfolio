@@ -1,3 +1,14 @@
+- name: Freelance CRM Project (For A Temple Business)
+  url: https://github.com/seekerpig/crm_project
+  description: Working on a freelance project with a Singapore's Temple Business to develop a CRM Solution for their Ancestor Tablet rental needs with built-in solutions such as rentals, invoices tracking and accounts management.
+  status: In Progress
+  tags:
+    - Next.JS
+    - Typescript
+    - NoSQL
+  icon: github
+  image: images/crm_project.png
+
 - name: RaspberryPI Communication Server
   url: https://github.com/seekerpig/sc2079_rpi_imagerec
   description: Developed raspberryPI as a communication server that helps to process and facilitate real-time communications between multiple devices such as Android Tablet (via Bluetooth), Algorithm Server (via IP Sockets), Image Recognition Server (via HTTP Requests and Flask) and STM32 Robo (via UART/Serial). Coded with Python, uses multiple processes to allow for parallel computation across processes and each process dedicated to sending/receiving message from devices such as algorithm server.
