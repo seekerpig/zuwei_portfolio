@@ -20,7 +20,7 @@
   image: images/crm_project.png
 
 - name: RaspberryPI Communication Server
-  url: https://github.com/seekerpig/sc2079_rpi_imagerec
+  url: https://github.com/seekerpig/rpi-server-image-recognition
   description: Developed raspberryPI as a communication server that helps to process and facilitate real-time communications between multiple devices such as Android Tablet (via Bluetooth), Algorithm Server (via IP Sockets), Image Recognition Server (via HTTP Requests and Flask) and STM32 Robo (via UART/Serial). Coded with Python, uses multiple processes to allow for parallel computation across processes and each process dedicated to sending/receiving message from devices such as algorithm server.
   status: completed
   tags:
@@ -76,7 +76,7 @@
   image: images/moblima.png
 
 - name: Telco Data Analysis
-  url: https://github.com/seekerpig/SC1015_DataScienceAI_MiniProject
+  url: https://github.com/seekerpig/TelcoChurnPrediction
   description: This is a python data analysis project that focuses on telco churn prediction and customer clustering. Some techniques used in the project includes support vector classification, logistic regression, k-cross validation.
   status: completed
   tags:
