@@ -1,3 +1,13 @@
+- name: Lab Attendance System
+  url: 
+  description: Currently developing a lab attendance system for Nanyang Technological University's School of Computing. The system aims to automate the attendance taking process for lab sessions and provide attendance tracking & management for students, professors and lab executives.
+  tags:
+    - Next.JS
+    - Typescript
+    - PostgreSQL
+    - Java Spring Boot
+  icon: github
+  image: images/lab_ats.png
 - name: Freelance CRM Project (For A Temple Business)
   url: https://github.com/seekerpig/crm_project
   description: Working on a freelance project with a Singapore's Temple Business to develop a CRM Solution for their Ancestor Tablet rental needs with built-in solutions such as rentals, invoices tracking and accounts management.
@@ -18,10 +28,7 @@
     - Backend
     - Sockets
     - Flask
-    - HTTP Requests
-    - Bluetooth
-    - Multiprocessing
-    - Real-time Communications
+    - Concurrency / Multiprocessing
   icon: github
   image: images/stm32robot.jpg
 

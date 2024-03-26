@@ -10,26 +10,27 @@
   focus: Software Development
   focus_url: https://www.linkedin.com/in/sohzuwei/
   about: |
-    I am currently a penultimate Computer Science student studying in Nanyang Technological University with NTU Scholarship (No Bond, Graduate DEC 2024)
+    I am currently a penultimate Computer Science student studying in Nanyang Technological University with NTU Scholarship and is expected to graduate in DEC 2024.
     (Current Cumulative GPA is 4.84/5.0)
 
-    Previously from Dip. in Business IT (Singapore Polytechnic) and was an SP Scholar and graduated with as course's Silver Medalist.
+    Previously from Dip. in Business IT (Singapore Polytechnic) and was an SP Scholar and graduated with as the course's Silver Medalist.
     
-    I'm experienced in full stack development, UI/UX Design, Data Analytics, Database Management Systems and Business End-to-End Processes. 
+    Strong interest in backend software development (Backend) and Web3.
+
     
     
   skills:
-    - Full Stack (Typescript, React, DBMS, .NET, Node.JS)
-    - UI/UX Design
-    - Solidity, Python, C++, C#, Java, Javascript
-    - Software Engineering Practices, Patterns, OOP
-    - Data Analytics
+    - Frontend (ReactJS, Next.JS, TailwindCSS)
+    - NodeJS, Java Spring, .NET Core
+    - C++, C#, Java, Typescript, Python, Golang
+    - Software Engineering Principles, Concurrency
+    - Database (SQL, NoSQL), Blockchain
     - CI/CD, Kubernetes, Docker, Cloud
   tools:
-    - Visual Studio
-    - SQL / NoSQL
-    - Agile / Scrums
-    - Git Flow
+    - VS Code
+    - Azure/AWS/Firebase
+    - Confluence, JIRA, Git Flow
+    - Object Oriented Programming
   budget:
     currency: $
     min: 5
