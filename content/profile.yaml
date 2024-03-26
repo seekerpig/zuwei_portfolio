@@ -4,10 +4,10 @@
   profession: Tech Enthusiast
   image: images/profile.jpg
   location: Singapore, SG
-  relocation: false
+  relocation: true
   company: Looking for Internship
   for_hire: true
-  focus: Software Development
+  focus: Backend Development
   focus_url: https://www.linkedin.com/in/sohzuwei/
   about: |
     I am currently a penultimate Computer Science student studying in Nanyang Technological University with NTU Scholarship and is expected to graduate in DEC 2024.
@@ -20,12 +20,12 @@
     
     
   skills:
-    - Frontend (ReactJS, Next.JS, TailwindCSS)
+    - ReactJS, Next.JS, TailwindCSS
     - NodeJS, Java Spring, .NET Core
     - C++, C#, Java, Typescript, Python, Golang
-    - Software Engineering Principles, Concurrency
-    - Database (SQL, NoSQL), Blockchain
-    - CI/CD, Kubernetes, Docker, Cloud
+    - Software Engineering Principles
+    - DBMS (SQL, NoSQL)
+    - CI/CD, Kubernetes, Docker, Cloud, Blockchain
   tools:
     - VS Code
     - Azure/AWS/Firebase
