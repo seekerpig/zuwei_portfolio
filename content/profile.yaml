@@ -5,7 +5,7 @@
   image: images/profile.jpg
   location: Singapore, SG
   relocation: true
-  company: Looking for Internship
+  company: Looking for Grad Roles
   for_hire: true
   focus: Backend Development
   focus_url: https://www.linkedin.com/in/sohzuwei/
@@ -20,12 +20,12 @@
     
     
   skills:
-    - ReactJS, Next.JS, TailwindCSS
     - NodeJS, Java Spring, .NET Core
+    - React, gRPC, Distributed Systems
     - C++, C#, Java, Typescript, Python, Golang
     - Software Engineering Principles
     - DBMS (SQL, NoSQL)
-    - CI/CD, Kubernetes, Docker, Cloud, Blockchain
+    - CI/CD, Kubernetes, Docker, Cloud, Web3
   tools:
     - VS Code
     - Azure/AWS/Firebase
