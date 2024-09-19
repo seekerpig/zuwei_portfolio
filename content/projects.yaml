@@ -8,6 +8,27 @@
     - Java Spring Boot
   icon: github
   image: images/lab_ats.png
+- name: Concurrent Trade Matching Engine
+  url: https://github.com/seekerpig/concurrent-trade-matching-engine
+  description: Practiced concurrency and parallel programming by developing a trade matching engine that matches buy and sell orders concurrently. The engine is able to handle multiple orders at the same time. This project was developed using three different concurrent programming paradigms, namely C++ (Multithreading), Golang (Goroutines and Channels), Rust (Async Programming with Tokio).
+  tags:
+    - C++
+    - Golang
+    - Rust
+    - Concurrency
+    - Threads
+    - Async Programming
+  icon: github
+  image: images/match_engine.png
+- name: Creating Bash in Java
+  url: https://github.com/seekerpig/creating-bash-in-java
+  description: Building bash from scratch using Java. This project aims to replicate the functionalities of bash such as executing commands, piping, redirection. Commands includes cat, grep, tee, echo, ls and more. Additionally, it aims to replicate the complexity of bash such as combining multiple commands with pipes and redirections such as ls | grep "txt" | tee output.txt. Additionally, the project was also used to learn how to test software comprehensively in a production level (unit tests, integration tests, mutation tests, system tests and more!).
+  tags:
+    - Java
+    - Bash
+    - Software Testing
+  icon: github
+  image: images/bash.png
 - name: Freelance CRM Project (For A Temple Business)
   url: https://github.com/seekerpig/crm_project
   description: Working on a freelance project with a Singapore's Temple Business to develop a CRM Solution for their Ancestor Tablet rental needs with built-in solutions such as rentals, invoices tracking and accounts management.
